@@ -6,7 +6,7 @@ Space Invaders: A video game application powered by Cocos2d-x game engine on iOS
 	- Demoed and tested the video game on iOS and Android devices.
 
 	
-Files description£º
+Files description:
 
 	Classes: All source code
 	cocosstudio: Interface created in Cocos Studio
